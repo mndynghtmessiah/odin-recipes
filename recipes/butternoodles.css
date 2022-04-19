@@ -1,5 +1,10 @@
 li {
     border-style:dashed;
     border-color:brown;
-    color:antiquewhite
+    color:black;
+    font-family:"Courier New"
+}
+h1 {
+    color: red;
+    font-family: "Times New Roman";
 }
